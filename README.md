@@ -1,4 +1,4 @@
-# taller1
+# carrera
 import java.util.Scanner;
 
 public class Ramdomizer {
